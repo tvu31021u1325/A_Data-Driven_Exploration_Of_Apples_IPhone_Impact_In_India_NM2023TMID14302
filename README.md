@@ -2,4 +2,6 @@
 
 Dashboard public link  -  https://public.tableau.com/app/profile/lokesh.kumar1844/viz/apple_iphone_final_project_12/Dashboard2?publish=yes 
 
-story public link  -  https://public.tableau.com/app/profile/lokesh.kumar1844/viz/apple_iphone_final_project_12/Story1?publish=yes 
+story public link  -  https://public.tableau.com/app/profile/lokesh.kumar1844/viz/apple_iphone_final_project_12/Story1?publish=yes
+
+video demonstration link  -  https://1drv.ms/v/s!Ap2qY6_A6VXEhTX7Vzp9acGXicOD?e=vmxkpS
